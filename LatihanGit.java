@@ -9,5 +9,6 @@ public class LatihanGit {
         System.out.println("Hai");
         System.out.println("Aku suka nasi goreng");
         System.out.println(bilangan);
+        System.out.println("apa gitu?");
     }
 }
